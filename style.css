@@ -1,0 +1,97 @@
+.hello{
+    width: 50vw;
+    height: 0vh;
+    background-color: black;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+    font-size: 1.5rem;
+    display: flex;
+    align-items: normal;
+    text-align: left;
+    flex-direction: column;
+    margin-left: 676px;
+    margin-top: 52px;
+    margin-bottom: 51px;
+    
+
+}
+*{margin: 0%;
+  padding: 0%;
+
+}
+img {
+    width: 505px;
+    height: 636px;
+    margin-left: -183px;
+    margin-top: 153px;
+}
+
+
+.all{
+    width: 159px;
+    height: 200px;
+    margin-left: 343px;
+    margin-top: -247px;
+    margin-bottom: 55px;
+   
+}
+
+#developer{
+    line-height: 5rem;
+    font-size: 4.5rem;
+    font-weight: 200;
+    color: rgb(148, 18, 79);
+    }
+body{
+    height: 100%;
+     width: 100%;
+    background-color: black;}
+.Contact{
+    height: 68px;
+    width: 150px;
+    background-color: transparent;
+    color: rgb(148, 18, 79);
+    border: 1px solid rgb(148, 18, 79);
+    font-size: 2rem;
+    
+}
+.Contact:hover{
+    color: black;
+background-color: whitesmoke;}
+h2{
+    font-size: 5rem;}
+    @media (max-width: 767px) {
+        .hello {
+            background-position: 80%;
+           
+            margin-top: 527px;
+            margin-left: 132px;
+        }
+        img{
+            margin-top: -675px;
+            margin-left: 160px;
+            height: 460px;
+            width: 366px;
+            
+        }
+        .all{
+            margin-top: -106px;
+            justify-content: end;
+            margin-left: -67px;
+        }
+        h2{
+            font-size: 3.7rem;
+
+        }
+        h1{
+            font-size: 2.3rem;
+        }
+        .st{
+            font-size: 1.8rem;
+            height: 241px;
+            width: 428px;
+        }
+    
+    }
