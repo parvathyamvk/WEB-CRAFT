@@ -89,9 +89,9 @@ A function selects one of the descriptions randomly, and `setInterval()` updates
 
 ## Live Demo
 
-A live demo link has not been confirmed for this repository yet. The project can be run locally by opening `index.html` in a browser.
+The website is published using GitHub Pages:
 
-If you enable GitHub Pages for this repository later, add the published URL here.
+**[Visit WEB-CRAFT Live Demo](https://parvathyamvk.github.io/WEB-CRAFT/)**
 
 ## Contact
 
